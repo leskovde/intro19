@@ -1,0 +1,10 @@
+Jako prostredi jsem zvolil KDE. Docetl jsem se, ze je jedno z nejlepe upravitelnych a flexibilnich prostredi, 
+coz se do budoucna zajiste hodi. Jelikoz zatim nejsem s Unixem velmi zdatny, tak predpokladam, ze si zatim 
+vystacim se standartnim nastavenim vsemoznych aplikaci. Postupem casu si prostredi zajiste nakonfiguruji 
+podle sebe.
+Jednou z velmi uzitecnych vychytavek, ktere jsem vyuzil, je moznost klavesovych zkratek. Prestoze zkratky bezne
+nepouzivam jsem jich hned nekolik zavedl. Doufam, ze po par hodin ch si na ne zvyknu a prace se tak zrychli.
+Jako textovy editor zatim pouz¡v m Nano, ale mam v planu prejit na Sublime Text. Podporuje spoustu
+programovacich a znackovacich jazyku, coz se na MatFyzu hodi.
+Jelikoz jsem odjakziva zvykly na Mozillu, vyber prohlizece nebyl problem.
+
