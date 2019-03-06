@@ -1,0 +1,1 @@
+ls -S /bin | grep a | tail -20
