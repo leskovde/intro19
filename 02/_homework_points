@@ -1,0 +1,4 @@
+5
+# Mistakes:
+# incl.sh does not work.
+# two-chars.sh prints also filenames with numbers not just letters.
