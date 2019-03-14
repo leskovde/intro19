@@ -1,0 +1,1 @@
+cut -d ":" -f1  /etc/group ; cut -d ":" -f3 /etc/group | tr "\n" "+" | head --bytes -1 | cat -  <(echo "") | bc

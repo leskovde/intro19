@@ -1,0 +1,1 @@
+diff <(cut -d ":" -f 4 /etc/passwd | sort) <(cut -d ":" -f 3 /etc/group | sort) | grep ">" | tr -d ">"

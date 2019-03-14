@@ -1,0 +1,1 @@
+df -BM --output=avail | tail -n+2 | tr -d " ","M" | tr "\n" "+" | head --bytes -1 | cat - <(echo "") | bc

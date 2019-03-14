@@ -1,0 +1,1 @@
+scp {group-sum,unused-groups,patch}.sh u-pl1.ms.mff.cuni.cz:/tmp

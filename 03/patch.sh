@@ -1,0 +1,1 @@
+diff test.c <(grep "[0-9]" test.c | tr [0-9] "X") > test.patch
