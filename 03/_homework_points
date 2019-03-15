@@ -1,3 +1,4 @@
-1
+5
 # Mistakes:
-# all tasks except copy.sh contain unallowd constructions
+# all tasks except copy.sh contain unallowed constructions
+# unallowed constructions are OK, dividing score by 2
