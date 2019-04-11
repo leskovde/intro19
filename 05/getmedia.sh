@@ -10,6 +10,7 @@ usage() {
 	echo "	-ar or --archive for compressed archive files"
 	echo "	-d N or --depth N, where N is the recursion depth"
 	echo "  ! -d or --depth MUST be combined with another option !"
+	echo "  ! Any other pair of options CANNOT be combined !"
 	echo "Example: getmedia.sh -p asch.cz/unix/"
 	echo "Example: getmedia.sh -p -d 3 asch.cz/unix/"
 	exit 1
