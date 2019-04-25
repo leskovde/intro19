@@ -2,7 +2,9 @@
 
 #set -euo pipefail
 
-#
+# Not to waste your time - options don't work properly, 'next' doesn't work correctly, 'git' is done via github
+# Lots of input testing is missing
+# 'Help' isn't really helpful, as it doesn't always pop up when needed
 
 url=asch.cz/intro
 git=github.com/leskovde/intro19
@@ -230,5 +232,7 @@ if [ "$1" = "ls" ] || [ "$1" = "status" ] || [ "$1" = "next" ]; then
       fi
     fi
   fi
+  else
+  help
 fi
 rm completePage.txt dates.txt labInfo.txt tempdueDates.txt dueDates.txt taskDesc.txt taskPoints.txt activPoints.txt tpOutput.txt apOutput.txt
