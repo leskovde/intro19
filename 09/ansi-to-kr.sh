@@ -1,3 +1,4 @@
+#!/bin/bash
 #set -euo pipefail
 
 # This script creates a bunch of new files. It does not replace the original ones on purpose - write permission
